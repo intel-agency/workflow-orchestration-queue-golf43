@@ -1,5 +1,5 @@
 {
-  "name": "workflow-orchestration-queue-golf43",
+  "name": "workflow-orchestration-queue-golf43-devcontainer",
   "image": "ghcr.io/intel-agency/workflow-orchestration-queue-golf43/devcontainer:main-latest",
   "containerEnv": {
     "DOTNET_ROOT": "/usr/share/dotnet"
